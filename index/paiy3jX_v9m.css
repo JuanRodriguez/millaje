@@ -1,0 +1,131 @@
+/*!CK:4038489175!*//*1394058162,178191169*/
+
+.friend_suggester_dialog #fb_multi_friend_selector_wrapper,
+.friend_suggester_dialog .pop_content .dialog_body{padding:0}
+.friend_suggester_dialog #fb_multi_friend_selector h2{background:none;border:none}
+.friend_suggester_dialog #fb_multi_friend_selector .multi_friend_status,
+.friend_suggester_dialog #fb_multi_friend_selector h3{border:none;padding:4px 10px}
+.friend_suggester_dialog #fb_multi_friend_selector .buttons,
+.friend_suggester_dialog #fb_multi_friend_selector #view_unselected{display:none}
+.friend_suggester_dialog #fb_multi_friend_selector #friends{border:none;padding:0}
+.friend_suggester_dialog #fb_multi_friend_selector{width:auto}
+.friend_suggester_dialog #fb_multi_friend_selector #friends .recommended_text{background-color:#edeff4}
+.friend_suggester_dialog #fb_multi_friend_selector #friends
+.recommended_friends{background-color:#edeff4;border-bottom:1px solid #dadada}
+._55bh{position:relative}
+._55bh:after{background:#405791;content:'';height:17px;left:1px;position:absolute;top:2px;width:1px}
+._56lq{float:left;width:12px}
+.litestandNavItem{padding-right:6px}
+._57ve{vertical-align:-2px}
+.hasSmurfbar #pageNav ._4z6w#navAccount{margin-left:0;margin-right:-3px}
+.hasSmurfbar #pageNav ._4z6w#navAccount #navAccountLink, .hasSmurfbar #pageNav ._4z6w.openToggler#navAccount #navAccountLink, .hasSmurfbar #pageNav ._4z6w.openToggler#navAccount #navAccountLink:hover{border:1px solid transparent;border-bottom:0;border-radius:2px 2px 0 0;height:13px;padding:7px 7px 4px}
+.hasSmurfbar #pageNav ._4z6w#navAccount #navAccountLink .menuPulldown{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png)!important;background-repeat:no-repeat!important;background-size:402px 92px!important;background-position:-42px -46px!important;height:8px;margin:0;width:11px}
+.hasSmurfbar #pageNav ._4z6w#navAccount #navAccountLink:focus .menuPulldown, .hasSmurfbar #pageNav ._4z6w#navAccount #navAccountLink:hover .menuPulldown, .hasSmurfbar #pageNav ._4z6w.openToggler#navAccount #navAccountLink .menuPulldown{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png)!important;background-repeat:no-repeat!important;background-size:402px 92px!important;background-position:-56px -46px!important}
+.hasSmurfbar #pageNav ._4z6w.openToggler#navAccount #navAccountLink, .hasSmurfbar #pageNav ._4z6w.openToggler#navAccount #navAccountLink:hover{border:1px solid rgba(100, 100, 100, .4);border-bottom:0}
+._4z6w#navAccount .contextualHelp, ._4z6w#navAccount .navigation{border:1px solid rgba(100, 100, 100, .4);border-radius:3px 0 3px 3px;box-shadow:0 3px 8px rgba(0, 0, 0, .25);padding:6px 0;right:0}
+#pageNav ._4z6w#navAccount .navSubmenu{color:#232b37;font-family:Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;height:20px;line-height:20px}
+#pageNav ._4z6w#navAccount .navSubmenu input{color:#232b37;height:20px}
+#pageNav ._4z6w#navAccount .navSubmenu:hover, #pageNav ._4z6w#navAccount .navSubmenu:focus, #pageNav ._4z6w#navAccount .navSubmenu:active, #pageNav ._4z6w#navAccount .selected label.navSubmenu{border-bottom:1px solid #3b5998;border-top:1px solid #3b5998;color:#fff}
+#pageNav ._4z6w#navAccount .navSubmenu:hover input, #pageNav ._4z6w#navAccount .navSubmenu input:focus, #pageNav ._4z6w#navAccount .navSubmenu input:active, #pageNav ._4z6w#navAccount .selected input{color:#fff}
+#pageNav ._4z6w#navAccount .menuDivider{background:#d3d7dc}
+._5p3y, ._5p3y button, ._5p3y input, ._5p3y label, ._5p3y select, ._5p3y td, ._5p3y textarea, ._5p3y .uiMentionsInput .highlighter, ._5p3y .uiButtonText, ._5p3y .uiButton input, ._5p3y .uiLinkButton input, ._5p3y button.as_link{font-family:Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;font-size:12px}
+._5p3y .commentable_item .comment_link .uiLinkButtonInput, ._5p3y .UIActionLinks_bottom .comment_link, ._5p3y .UIActionLinks_bottom .comment_link .uiLinkButtonInput{vertical-align:baseline}
+._5p3y .commentable_item .comment_link, ._5p3y .UIActionLinks_bottom .comment_link{vertical-align:top}
+._5p3y a[role="button"]{font-family:Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif}
+._5p3y .fsm, ._5p3y .uiHeader h3, ._5p3y h4, ._5p3y h5, ._5p3y h6, ._5p3y .UFICommentContent ._5v47{font-size:12px}
+._5p3y .fsl{font-size:14px}
+._5p3y .fbChatSidebar, ._5p3y .fbDock, ._5p3y .fbFeedTicker .fbFeedTickerStory .tickerFeedMessage, ._5p3y .fbFeedTicker .fbFeedTickerStory div.tickerFeedMessage h5, ._5p3y .fbFeedTicker .fbFeedTickerStory div.tickerFeedMessage h6, ._5p3y .tickerDialogContent .uiStream .uiStreamMessage, ._5p3y .tickerDialogContent .uiStream .text_exposed_link, ._5p3y .uiTooltipX .tooltipContent{font:12px/16px Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif}
+._5p3y .uiStreamHeaderChronologicalForm a.sortLink, ._5p3y .navHeader, ._5p3y .navHeader a, ._5p3y .uiMoreLinkText{font-size:10px}
+._5p3y .uiSideNav .item{color:#141823}
+._5p3y ._519b ._2wr{top:20px}
+._5p3y #fbRequestsFlyout .title{font-size:12px}
+._5p3y .uiStreamLargeHeadline .uiStreamStory .uiStreamHeadline, ._5p3y .uiStreamRedesign .uiStreamMessage .messageBody{font-size:14px}
+._5p3y .uiStreamRedesign .uiStreamStory .actorDescription{padding-bottom:2px}
+._5p3y .uiStream .text_exposed_link{font-size:12px}
+._5p3y .shareRedesignContainer .shareText{min-height:78px;padding-bottom:5px;padding-top:7px}
+._5p3y .shareRedesign .attachmentText{max-height:78px}
+._5p3y .shareRedesign.fullWidthMedia .shareRedesignContainer .attachmentText{max-height:82px}
+._5p3y ._5vr7{font-family:'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;font-size:12px;line-height:16px;padding-left:5px}
+._1hin._1hio{background:#f6f7f8}
+._1hin .uiCloseButton{display:none;margin-top:5px}
+._1hin:hover .uiCloseButton, ._1hin .openToggler .uiCloseButton{display:inline-block}
+._1hip{border-radius:0;padding:1px}
+._5cop{padding-left:17px}
+html .hasSmurfbar #pageNav #navPrivacy._5cop ._59fc{padding:0}
+.hasSmurfbar ._5cop ._59fb{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-112px -58px;margin-top:8px}
+.hasSmurfbar ._5cop ._59fc:hover ._59fb, .hasSmurfbar ._5cop ._59fc:focus ._59fb{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-148px -58px}
+.hasSmurfbar ._5cop ._59fc:active ._59fb, .hasSmurfbar ._5cop .openToggler ._59fc ._59fb{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-130px -58px}
+._-l6 #headNav #navSearch.roundedBox{width:398px}
+#facebook ._-l6 #pageLogo{margin-top:1px}
+._-l6 #navSearch.roundedBox .uiSearchInput{border:none}
+._-l6 .roundedBox .smurfbarBottomBorder{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:0 0;height:4px;margin-left:-2px;width:400px}
+._-l6 .roundedBox .smurfbarTopBorder{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:0 -6px;height:4px;margin-left:-2px;margin-top:-2px;width:400px}
+._-l6 #headNav .roundedBox .uiTypeahead{background-color:#fff;border:none;border-radius:0}
+._-l6 #navSearch.roundedBox .uiSearchInput{margin-left:2px}
+._-l6 #navSearch.roundedBox .uiSearchInput, ._-l6 #navSearch.roundedBox .uiSearchInput input, ._-l6 #navSearch.roundedBox .uiSearchInput button{background-color:transparent;width:364px}
+._-l6 #headNav #navSearch.roundedBox .uiTypeahead{height:20px;margin-left:-2px}
+._-l6 #navSearch.roundedBox .uiSearchInput .inputtext{color:#141823;font-size:15px;line-height:22px;margin-top:-1px;padding-top:0}
+._-l6 #navSearch.roundedBox .uiSearchInput input::-moz-placeholder, ._-l6 #navSearch.roundedBox .uiSearchInput input:-moz-placeholder{color:#adb2bb}
+._-l6 #navSearch.roundedBox .uiSearchInput .DOMControl_placeholder{color:#6a7180}
+._-l6 #navSearch.roundedBox .uiSearchInput button{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-88px -58px;height:15px;right:1px;top:3px;width:22px}
+#pageNav._5bfj .tinyman{height:22px;line-height:22px;padding:0 6px 0 0}
+.lightNav #pageNav._5bfj .tinyman{border-left:none}
+._5bfg #pageNav._5bfj .tinyman .navLink:after, ._5bfg #pageNav._5bfj .tinyman .navLink:hover::after{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-64px -58px;background-color:transparent;content:'';display:block;height:21px;left:3px;position:absolute;top:3px;width:21px}
+#pageNav._5bfj .tinyman .headerTinymanPhoto{border:0;border-radius:0;height:19px;margin:4px 0 0;width:19px}
+#pageNav._5bfj .tinyman .headerTinymanName{padding-left:8px;padding-right:0}
+#pageNav._5bfj .litestandNavItem a.navLink, #pageNav._5bfj #navHome a, #pageNav._5bfj #navTimeline a, #pageNav._5bfj #navFindFriends a, #pageNav._5bfj #navPost a{border-right:none;color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;margin-left:2px;padding-left:9px;padding-right:1px;text-shadow:0 -1px rgba(0, 0, 0, .5)}
+#pageNav._5bfj .litestandNavItem:hover a, #pageNav._5bfj .litestandNavItem a:focus, #pageNav._5bfj #navHome:hover a, #pageNav._5bfj #navTimeline:hover a, #pageNav._5bfj #navFindFriends:hover a, #pageNav._5bfj #navPost:hover a, #pageNav._5bfj #navHome a:focus, #pageNav._5bfj #navTimeline a:focus, #pageNav._5bfj #navFindFriends a:focus, #pageNav._5bfj #navPost a:focus{background:#425691;border-radius:2px;color:#fff;margin-left:2px;margin-right:-8px;padding-left:9px;padding-right:9px;position:relative;z-index:1}
+#pageNav._5bfj .litestandNavItem:hover:after, #pageNav._5bfj #navHome:hover:after, #pageNav._5bfj #navTimeline:hover:after, #pageNav._5bfj #navFindFriends:hover:after, #pageNav._5bfj #navPost:hover:after{display:none}
+#pageNav._5bfj .tinyman:hover a.navLink, #pageNav._5bfj .tinyman a.navLink{padding-left:4px}
+#pageNav._5bfj #fbRequestsJewel a.jewelButton{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-360px -12px}
+#pageNav._5bfj #fbRequestsJewel a.jewelButton:focus, #pageNav._5bfj #fbRequestsJewel a.jewelButton:hover{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-32px -58px}
+._5bfj #fbRequestsJewel.hasNew a.jewelButton, ._5bfj #fbRequestsJewel a.jewelButton:active, ._5bfj .notifNegativeBase #fbRequestsJewel.openToggler a.jewelButton, ._5bfj .notifNegativeBase #fbRequestsJewel.openToggler a.jewelButton:hover{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png)!important;background-repeat:no-repeat!important;background-size:402px 92px!important;background-position:0 -58px!important}
+#pageNav._5bfj #fbMessagesJewel a.jewelButton{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-42px -13px}
+#pageNav._5bfj #fbMessagesJewel a.jewelButton:focus, #pageNav._5bfj #fbMessagesJewel a.jewelButton:hover{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-114px -13px}
+._5bfj #fbMessagesJewel.hasNew a.jewelButton, ._5bfj #fbMessagesJewel a.jewelButton:active, ._5bfj .notifNegativeBase #fbMessagesJewel.openToggler a.jewelButton, ._5bfj .notifNegativeBase #fbMessagesJewel.openToggler a.jewelButton:hover{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png)!important;background-repeat:no-repeat!important;background-size:402px 92px!important;background-position:-78px -13px!important}
+#pageNav._5bfj #fbNotificationsJewel a.jewelButton{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-258px -12px}
+#pageNav._5bfj #fbNotificationsJewel a.jewelButton:focus, #pageNav._5bfj #fbNotificationsJewel a.jewelButton:hover{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-326px -12px}
+._5bfj #fbNotificationsJewel.hasNew a.jewelButton, ._5bfj #fbNotificationsJewel a.jewelButton:active, ._5bfj .notifNegativeBase #fbNotificationsJewel.openToggler a.jewelButton, ._5bfj .notifNegativeBase #fbNotificationsJewel.openToggler a.jewelButton:hover{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png)!important;background-repeat:no-repeat!important;background-size:402px 92px!important;background-position:-292px -12px!important}
+.hasSmurfbar ._5bfj #jewelContainer.notifHasCommunityNotifications .fbJewelFlyout{margin-right:-30px}
+.hasSmurfbar ._5bfj #jewelContainer.notifHasCommunityNotifications .fbJewel .beeperNub{margin-right:30px}
+.hasSmurfbar ._5bfj #jewelContainer #fbRequestsJewel.fbJewel .beeperNub{right:67px}
+.hasSmurfbar ._5bfj #jewelContainer #fbRequestsJewel.fbJewel .beeperNub{right:67px}
+.hasSmurfbar ._5bfj #jewelContainer #fbMessagesJewel.fbJewel .beeperNub{right:35px}
+.hasSmurfbar ._5bfj #jewelContainer #fbNotificationsJewel.fbJewel .beeperNub{right:4px}
+.hasSmurfbar ._5bfj #jewelContainer #communityNotificationsJewel.fbJewel .beeperNub{right:-24px}
+.hasSmurfbar ._5bfj #jewelContainer #fbRequestsFlyout.fbJewelFlyout{right:-62px}
+.hasSmurfbar ._5bfj #jewelContainer #fbMessagesFlyout.fbJewelFlyout{right:-30px}
+.hasSmurfbar ._5bfj #jewelContainer #communityNotificationsFlyout.fbJewelFlyout{right:30px}
+.hasSmurfbar ._5bfj #jewelContainer #fbNotificationsFlyout.fbJewelFlyout{right:0}
+#pageNav._5bfj #communityNotificationsJewel a.jewelButton{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-152px -12px;margin-left:3px}
+#pageNav._5bfj #communityNotificationsJewel a.jewelButton:focus, #pageNav._5bfj #communityNotificationsJewel a.jewelButton:hover{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-224px -12px}
+#pageNav._5bfj #communityNotificationsJewel.hasNew a.jewelButton, #pageNav._5bfj #communityNotificationsJewel a.jewelButton:active, #pageNav._5bfj .notifNegativeBase #communityNotificationsJewel.openToggler a.jewelButton, #pageNav._5bfj .notifNegativeBase #communityNotificationsJewel.openToggler a.jewelButton:hover{background-image:url(/rsrc.php/v2/yT/r/WaZWGhzD3Ik.png);background-repeat:no-repeat;background-size:402px 92px;background-position:-188px -12px}
+.sp_2v8xvq{background-image:url(/rsrc.php/v2/yp/r/aUh_DEwXvSN.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:16px;width:16px}
+.sx_dfd1e8{background-position:0 0}
+.sx_fbb47c{background-position:0 -17px}
+.sp_7tcmaa{background-image:url(/rsrc.php/v2/yr/r/VMS5NnkzKCU.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:21px;width:19px}
+.sx_01738d{width:21px;background-position:-16px -21px}
+.sx_b273b6{width:22px;background-position:-249px -16px}
+.sx_993081{width:22px;background-position:-281px -16px}
+.sx_5e5ef0{width:22px;background-position:-313px -16px}
+.sx_a2d05b{width:21px;background-position:-47px -17px}
+.sx_fd3784{width:21px;background-position:-81px -17px}
+.sx_65f38d{width:21px;background-position:-115px -17px}
+.sx_0b049a{background-position:-347px -16px}
+.sx_35206a{background-position:-6px -60px}
+.sx_7acb96{background-position:-38px -60px}
+.sx_cb0d28{background-position:-149px -16px}
+.sx_b30ab0{background-position:-183px -16px}
+.sx_fda7c5{background-position:-217px -16px}
+.sx_dda88d{width:11px;height:8px;background-position:-389px -26px}
+.sx_fc80b0{width:11px;height:8px;background-position:-41px -42px}
+.sx_3918d6{width:15px;height:13px;background-position:-373px -26px}
+.sx_631b53{width:15px;height:13px;background-position:-86px -54px}
+.sx_ac5a80{width:15px;height:13px;background-position:-102px -54px}
+.sx_d13db2{width:21px;background-position:-64px -54px}
+.sx_161bb7{width:22px;height:15px;background-position:-373px -10px}
+.sx_2d4e82{width:400px;height:4px;background-position:0 0}
+.sx_344953{width:400px;height:4px;background-position:0 -5px}
+
+#bootloader_B8lde { height: 42px; }
+.bootloader_B8lde { display:block !important; }

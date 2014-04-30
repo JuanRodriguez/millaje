@@ -1,0 +1,28 @@
+Root (Securiyt (Site)) 
+| - Apps
+| - | - App(s)
+|
+| - Help
+| - | - Note(s)
+| - | - Notes(s)
+| - | - | - Note(s)
+|
+| - Policies
+| - | - Policy(s)
+| - | - | - Policies(s)
+| - | - | - Policy(s)
+|
+| - Groups
+| - | - Group(s)
+| - | - | - User(s)
+| - | - | - Policies
+| - | - | - | - Policy(s)
+| - | - | - | - | - Policies(s)
+| - | - | - | - | - Policy(s)
+|
+| - Users
+| - | - Login
+| - | - | - Policies
+| - | - | - | - Policy(s)
+| - | - | - | - | - Policies(s)
+| - | - | - | - | - Policy(s)
